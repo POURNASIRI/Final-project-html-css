@@ -430,7 +430,7 @@ label #close{
     .up:hover{
         background-color: #cccccc;
     }
-   
+   /* media query for desktop */
 }
 @media (min-width: 900px) {
     .navbar-menu{
